@@ -26,7 +26,7 @@ class ShiftRegister(object):
     """Turns off each pin and runs cleanup on GPIO"""
     def clear(self) -> None:
         self.write("00000000")
-        GPIO.cleanup()
+        #not doing GPIO.cleanup here as it will clean pins in other files that use this library
         
 
 
