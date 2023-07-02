@@ -1,5 +1,5 @@
 # RaspberryPiShifRegister
-The place I store my scripts for interfacing with a shift register
+The place I store my scripts for interfacing with a 74HC595 shift register
 
 
 I have written a class for code reusability, ShiftRegister.py
