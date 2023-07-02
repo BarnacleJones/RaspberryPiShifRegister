@@ -18,7 +18,7 @@ pattern = ["01010101",
 		   "11000011",
 		   "11111111"]
 
-for x in [pattern]:
+for x in pattern:
 	shift_register.write(x)
 	time.sleep(0.5)
 
