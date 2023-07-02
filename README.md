@@ -1,4 +1,4 @@
-# RaspberryPiShifRegister
+# Raspberry Pi Shift Register Scripts
 The place I store my scripts for interfacing with a 74HC595 shift register
 
 
