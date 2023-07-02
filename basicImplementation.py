@@ -1,3 +1,4 @@
+#manual setup implementation. See ShiftRegister.py for the class implementation
 import  RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
 
